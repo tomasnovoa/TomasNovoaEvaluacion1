@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{3205dfdd-b6d8-4269-b793-d8b0f7cbac0b}">
+		<property name="name">
+			<value>ñau</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7c9c4237-595b-495f-8fe9-b2816617e5c1}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{889b04d1-50f9-4e5a-8d50-7b90a8aa4acb}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{889b04d1-50f9-4e5a-8d50-7b90a8aa4acb}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="velocity">
+			<value>-0.2199999988079071</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.08999999612569809</value>
+		</property>
+	</object>
+</objects>
